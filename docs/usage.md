@@ -8,3 +8,4 @@ Notes and usage details for mcp-devtools.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
